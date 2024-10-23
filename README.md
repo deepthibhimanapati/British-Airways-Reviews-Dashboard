@@ -28,6 +28,9 @@ Average Overall Rating by Country: A geographic heatmap showing customer ratings
 
 Average Overall Rating by Aircraft: A bar chart breaking down the ratings by the type of aircraft (e.g., Boeing 747, Airbus A320).
 
+![image](https://github.com/user-attachments/assets/b75ae0d4-d392-4c91-98b2-b10512df4cad)
+
+
 **Filtering Options**
 
 Traveler Type Filter: Users can filter the dashboard by different traveler types such as business, family leisure, couple leisure, and solo leisure.
